@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# NextJS + Prisma + Postgres + Auth (local db Credentials Strategy)
+Authored By: Mohamed Hafez
+- No AI use in this repo
+
 ## Getting Started
 
 First, run the development server:
